@@ -1,0 +1,16 @@
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\MetriCss.exe.config
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\MetriCss.exe
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\MetriCss.pdb
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\SaaUI.dll
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\SunnyUI.Common.dll
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\SunnyUI.dll
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\SaaUI.xml
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\x86\Release\SunnyUI.Common.xml
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.csproj.AssemblyReference.cache
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.Form1.resources
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.Properties.Resources.resources
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.csproj.GenerateResource.cache
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.csproj.CopyComplete
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.exe
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\x86\Release\MetriCss.pdb

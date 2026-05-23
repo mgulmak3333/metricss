@@ -1,0 +1,10 @@
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\Debug\MetriCss.exe.config
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\Debug\MetriCss.exe
+C:\Users\Musa\source\repos\MetriCss\MetriCss\bin\Debug\MetriCss.pdb
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.csproj.AssemblyReference.cache
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.Properties.Resources.resources
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.csproj.GenerateResource.cache
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.csproj.CoreCompileInputs.cache
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.exe
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.pdb
+C:\Users\Musa\source\repos\MetriCss\MetriCss\obj\Debug\MetriCss.Form1.resources
