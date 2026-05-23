@@ -36,4 +36,4 @@ Bu proje benim profesyonel portfolyomun ilk parçalarından biridir. Geliştirme
 
 ---
 
-![MetriCss Ekran Görüntüsü](img/img1.png)
+![MetriCss Ekran Görüntüsü](src/img1.png)
