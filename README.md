@@ -35,3 +35,5 @@ Bu proje benim profesyonel portfolyomun ilk parçalarından biridir. Geliştirme
 * **Kodlama & Geliştirme:** Kod tabanının oluşturulmasında **%10 kendi kodlama bilgimden, %90 ise yapay zeka asistanı Claude Code'un** güçlü rehberliğinden ve optimizasyon desteğinden yararlandım.
 
 ---
+
+![MetriCss Ekran Görüntüsü](img/img1.png)
